@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 🎓I'm a student at the University of Illinois at Urbana-Champaign, graduating December 2022!
+
+
 📖My degree is in Biological Engineering, but I pivoted to software development and got a Minor in Computer Science 🧑‍💻
 
 
